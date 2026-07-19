@@ -132,7 +132,7 @@ export async function POST(req: NextRequest) {
         stream: true,
         temperature: 1.0,
         top_p: 1.0,
-        max_tokens: 1000,
+        max_tokens: 4000,
         messages: [
           { role: "system", content: systemPrompt },
           ...messages.map((m) => ({ role: m.role, content: m.content })),
