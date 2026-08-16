@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T14:19:56.916Z",
+  "updatedAt": "2026-08-16T14:20:37.074Z",
   "conversations": [
     {
       "chatId": "2fb725f8-3fdf-4da4-8ea3-64cd0d1801e1",
       "title": "ඔබගේ නවතම හැකියාවන් මොනවද",
-      "updatedAt": "2026-08-16T14:19:56.916Z",
+      "updatedAt": "2026-08-16T14:20:37.074Z",
       "modelId": "nexio-1.1",
       "keywords": [
         "for",
@@ -17,19 +17,21 @@
         "shown",
         "verified",
         "ඔබට",
+        "කරන",
+        "හදන",
         "auth",
         "connection",
         "session",
         "supabase",
         "types",
+        "එකක",
         "ඔබග",
-        "කරන",
+        "ඔබව",
         "කරල",
         "කරලන",
         "නවතම",
         "නවද",
-        "බලන",
-        "හදන"
+        "බලන"
       ]
     },
     {
