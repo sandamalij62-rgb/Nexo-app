@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "chatId": "89a32bed-9b72-4d3f-9b79-48db2b437fa9",
+  "title": "Nexo conversation",
+  "updatedAt": "2026-08-17T08:32:06.064Z",
+  "modelId": "craft-v3",
+  "messages": [
+    {
+      "role": "user",
+      "content": "ඉක්මනට මගේ සුපර් බේස් projects බලන්න"
+    },
+    {
+      "role": "assistant",
+      "content": "මිත්‍රයා! ඔබගේ Supabase projects බලන්න මට පළමුව ඔබගේ Supabase account එක **Integrations → Supabase** මගින් සම්බන්ධ කර ගන්න ඕනේ. එය කරන්න පුළුවන් කියලා මම දන්නවා.\n\nඉතින් පස්සේ මම ඔබට තොරතුරු දෙන්න පුළුවන්:\n\n* ඔබගේ සියලුම Supabase project එකන් ලැයිස්තුවක්\n* එක් එක් project ේ tables, schema, RLS policies, සහ තවත් විස්තර\n\nඔබ **Integrations** කොටුවෙන් Supabase හරි කරන්න පුළුවන්ද? එය හරි නම් තහවුරු කරන්න මට."
+    }
+  ]
+}
