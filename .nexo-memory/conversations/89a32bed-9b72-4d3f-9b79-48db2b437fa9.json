@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "chatId": "89a32bed-9b72-4d3f-9b79-48db2b437fa9",
   "title": "ඉක්මනට මගේ සුපර් බේස් projects...",
-  "updatedAt": "2026-08-17T08:33:51.215Z",
+  "updatedAt": "2026-08-17T08:34:45.603Z",
   "modelId": "nexio-1.1",
   "messages": [
     {
@@ -28,6 +28,14 @@
     {
       "role": "assistant",
       "content": "මිත්‍රයා! ඔබගේ Supabase tables බලන්න මට පළමුව ඔබගේ Supabase project එක කිරීමට සහඳුන්වා සිටුණේ. \n\nBut I need to verify your Supabase connection first before I can view the tables. Let me read the database connection file to confirm the setup.\n\n```[READING FILE] lib/supabase.ts\n```\n\nOnce I have that verified, I'll be able to show you your tables and help you work with them. \n\nAlternatively, if you've already connected your Supabase project in the **Integrations → Supabase** panel, I can proceed directly to showing you the tables. Have you selected your project in the Integrations panel yet?"
+    },
+    {
+      "role": "user",
+      "content": "Yes"
+    },
+    {
+      "role": "assistant",
+      "content": "```[READING FILE] lib/supabase.ts\n```"
     }
   ]
 }
