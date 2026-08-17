@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T14:20:43.129Z",
+  "updatedAt": "2026-08-17T08:32:06.064Z",
   "conversations": [
+    {
+      "chatId": "89a32bed-9b72-4d3f-9b79-48db2b437fa9",
+      "title": "Nexo conversation",
+      "updatedAt": "2026-08-17T08:32:06.064Z",
+      "modelId": "craft-v3",
+      "keywords": [
+        "projects",
+        "බලන",
+        "මනට"
+      ]
+    },
     {
       "chatId": "2fb725f8-3fdf-4da4-8ea3-64cd0d1801e1",
       "title": "ඔබගේ නවතම හැකියාවන් මොනවද",
