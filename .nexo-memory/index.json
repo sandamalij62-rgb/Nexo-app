@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T12:47:28.326Z",
+  "updatedAt": "2026-08-18T12:51:41.020Z",
   "conversations": [
+    {
+      "chatId": "a55678d8-0bcb-46e4-9fc9-f0bc5acf5238",
+      "title": "Nexo conversation",
+      "updatedAt": "2026-08-18T12:51:41.020Z",
+      "modelId": "nexio-1.1",
+      "keywords": [
+        "done",
+        "well",
+        "boy"
+      ]
+    },
     {
       "chatId": "bc2072c9-3956-410d-bbcd-5351cd6a5f0b",
       "title": "ඔබට මෑතකදී එකතු වුණු නවතම...",
