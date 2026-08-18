@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T09:36:29.200Z",
+  "updatedAt": "2026-08-18T12:46:16.589Z",
   "conversations": [
+    {
+      "chatId": "bc2072c9-3956-410d-bbcd-5351cd6a5f0b",
+      "title": "Nexo conversation",
+      "updatedAt": "2026-08-18T12:46:16.589Z",
+      "modelId": "nexio-1.1",
+      "keywords": [
+        "එකත",
+        "ඔබට",
+        "තකද",
+        "නවතම",
+        "නවද"
+      ]
+    },
     {
       "chatId": "89a32bed-9b72-4d3f-9b79-48db2b437fa9",
       "title": "ඉක්මනට මගේ සුපර් බේස් projects...",
