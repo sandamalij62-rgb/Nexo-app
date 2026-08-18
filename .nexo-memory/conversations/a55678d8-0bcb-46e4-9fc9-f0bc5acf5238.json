@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "chatId": "a55678d8-0bcb-46e4-9fc9-f0bc5acf5238",
+  "title": "Nexo conversation",
+  "updatedAt": "2026-08-18T12:51:41.020Z",
+  "modelId": "nexio-1.1",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Well done well done boy"
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you! 😊 මම සූදානම් ඔබගේ ඕනෑම වැඩකට උදව් කරන්න.\n\nඅපි කලින් කතා කළා වගේ, `email` නමින් table එකක් Supabase එකේ හදන්න මම SQL එකක් ਤ hazırlan කරලා තිබුණා. ඔබ එය **\"අනුමතයි\" (Approve/Proceed)** කියලා කිව්වොත් මට එය ngayම execute කරන්න පුළුවන්.\n\nඊටපස්සේ අපි බලමු ඒ table එක හරියටම හැදුනාද කියලා. ඔබට වෙනත් මොනවා හෝ කරගන්න අවශ්‍ය නම් මට කියන්න! 👍"
+    }
+  ]
+}
